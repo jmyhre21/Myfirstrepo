@@ -1,3 +1,3 @@
 # Myfirstrepo
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-![walter](images/Walter_dog.jpg)
+![walter](files/Walter_dog.jpg)
